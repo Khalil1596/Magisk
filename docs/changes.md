@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/cb79cebe-2190-485b-8bb7-8e0fa8174fd8)
 # Magisk Changelog
 
 ### v28.0
